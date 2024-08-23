@@ -1,6 +1,6 @@
 # Numerical-Expression-Calculator-
 
-#This project implements a Python-based infix-to-postfix expression calculator while handling expression validation.
+## This project implements a Python-based infix-to-postfix expression calculator while handling expression validation.
 
 This command-line application is designed to process and evaluate mathematical expressions input by the user. The project is structured around two primary classes: the Stack class and the Calculate class. 
 
