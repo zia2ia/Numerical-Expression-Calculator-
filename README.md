@@ -8,4 +8,7 @@ Stack class: Provides the foundational data structure with its most basic operat
 
 Calculate Class: Handles the core functionality of the program. It validates the input expression, ensuring no missing or unmatched parentheses pairs and that the expression is syntactically sound. While also handling more specific edge cases. The program will repeat until a valid expression is given and will output why an expression is considered invalid. Once validated, the expression is converted into postfix notation while handling implicit multiplication if found. Finally, the class calculates the result of the newly converted postfix expression.
 
-Ins
+## Installation Instructions 
+
+1. The best way to install and use this program would be to access the file submitted under this repository named "Python_Project_PostfixCaclulator.py"
+2. Then to simpy
