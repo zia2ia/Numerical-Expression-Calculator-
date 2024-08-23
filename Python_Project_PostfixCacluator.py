@@ -217,6 +217,6 @@ class Calculator:
         return sum               
 
 if __name__ == "__main__":
-    initial_expression = input("Please input an arithmetic expression, include spaces to seperate all indexes like ( 1 + 1 ): ")
+    initial_expression = input("Please input an numerical expression, include spaces to seperate all indexes like ( 1 + 1 ): ")
     calc = Calculator(initial_expression)
     
