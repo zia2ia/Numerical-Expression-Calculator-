@@ -42,7 +42,7 @@ class Calculator:
             self.CalculateExpression()
             print(self.CalculateExpression())
             
-    #function to determine to check for numbers
+    #function to validate numbers
     def isNumber(self, i):
         try:
             float(i)
