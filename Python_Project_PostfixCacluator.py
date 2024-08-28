@@ -82,7 +82,7 @@ class Calculator:
             return False 
         
         for i in range(len(self.expr)):
-            #checks if index is not a valid charcter
+            #checks if index is not a valid character
             if (not self.isNumber(self.expr[i]) and 
                 self.expr[i] not in self.open and 
                 self.expr[i] not in self.closed and 
