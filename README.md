@@ -12,8 +12,8 @@ Calculate Class: Handles the core functionality of the program. It validates the
 
 1. The best way to install and use this program would be to access the file submitted under this repository named "Python_Project_PostfixCaclulator.py".
 2. Then to rather download or copy the raw file.
-3. Make sure Python (version 3.x is recommended) and a compiler are installed.
-4. Then paste it or upload it into any file in your compiler.
+3. Make sure Python (version 3.x is recommended) and a source code editor are installed.
+4. Then paste it or upload it into any file in your source code editor.
 5. Enter the correct file path in bash and then run the program.
 6. Interact with it through the command line.
 
