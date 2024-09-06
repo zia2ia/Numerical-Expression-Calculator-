@@ -39,8 +39,10 @@ class Calculator:
         elif self.validateExpression() == False or self.validateParantheses() == False:
             self.setExpression(input("Please input the new or fixed expression: "))
         else:
-            self.CalculateExpression()
-            print(self.CalculateExpression())
+            if self.CalculateExpression() == float("inf"):
+                print("Invalid Expression: Overflow Error")
+            else:
+                print(self.CalculateExpression())
             
     #function to validate numbers
     def isNumber(self, i):
